@@ -1,0 +1,6 @@
+cl\docker\scheduler\Scheduler.class
+cl\docker\model\TestDocker.class
+cl\docker\repository\TestDockerDAO.class
+cl\docker\helper\NegocioHelper.class
+cl\docker\config\SchedulingConfig.class
+cl\docker\DockerApplication.class
